@@ -1,0 +1,51 @@
+body {
+    background-image: url('./images/Background-Portfolio.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@100&family=Roboto&display=swap');
+
+.navbar { 
+    display: flex;
+    align-items: left;
+    list-style: none;
+    gap: 6rem;
+    font-size: 34px;
+}
+
+.nav-item{
+    background: linear-gradient(270deg, rgba(124, 114, 188, 0.934793) 43.96%, rgba(134, 110, 174, 0.934793) 52.27%, rgba(144, 106, 160, 0.934793) 60.6%, rgba(157, 100, 141, 0.934793) 69.44%, rgba(191, 87, 93, 0.934793) 79.85%, rgba(232, 70, 35, 0.934793) 89.99%, rgba(231, 118, 35, 0.845483) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+h1{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 115px;
+    position: absolute;
+    left: 370px;
+    top: 171px;
+    text-transform: uppercase;
+    background: linear-gradient(270deg, rgba(124, 114, 188, 0.934793) 43.96%, rgba(134, 110, 174, 0.934793) 52.27%, rgba(144, 106, 160, 0.934793) 60.6%, rgba(157, 100, 141, 0.934793) 69.44%, rgba(191, 87, 93, 0.934793) 79.85%, rgba(232, 70, 35, 0.934793) 89.99%, rgba(231, 118, 35, 0.845483) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+h2{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 50px;
+    position: absolute;
+    left: 650px;
+    top: 350px;
+    text-transform: uppercase;
+    background: linear-gradient(270deg, rgba(124, 114, 188, 0.934793) 43.96%, rgba(134, 110, 174, 0.934793) 52.27%, rgba(144, 106, 160, 0.934793) 60.6%, rgba(157, 100, 141, 0.934793) 69.44%, rgba(191, 87, 93, 0.934793) 79.85%, rgba(232, 70, 35, 0.934793) 89.99%, rgba(231, 118, 35, 0.845483) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
