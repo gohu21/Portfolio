@@ -1,2 +1,1 @@
-Bonjour, voici mon portfolio. J'ai fait une petite vidéo du rendu de mon portfolio que j'ai envoyé par mail histoire de voir comment il rend sur mon écran vue qu'il n'est pas responsive malheureusement...
-Mon Git : gohu21
+C'est mon portfolio bien guez
